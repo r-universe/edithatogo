@@ -1,5 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/edithatogo/edithatogo.r-universe.dev
 	branch = HEAD
+[submodule "innovate.R"]
+	path = innovate.R
+	url = https://github.com/edithatogo/innovate
+	subdir = bindings/r
+[submodule "marsruntime"]
+	path = marsruntime
+	url = https://github.com/edithatogo/mars
+	subdir = bindings/r
