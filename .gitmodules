@@ -10,3 +10,7 @@
 	path = marsruntime
 	url = https://github.com/edithatogo/mars
 	subdir = bindings/r
+[submodule "voiageR"]
+	path = voiageR
+	url = https://github.com/edithatogo/voiage
+	subdir = r-package/voiageR
